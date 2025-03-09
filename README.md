@@ -1,6 +1,6 @@
 # DSA210_TermProject
 
-## **What is the aim of the project?**
+### **What is the aim of the project?**
 
 
 
@@ -11,7 +11,7 @@ In this project, I am going to investigate the crutial connections between study
 
 
 
-## **What is the first dataset?**
+### **What is the first dataset?**
 
 
 
@@ -26,7 +26,7 @@ Firstly, I will be investigating my first dataset which directly focuses on stud
 
 
 
-## **What is the second dataset?**
+### **What is the second dataset?**
 
 
 
@@ -56,6 +56,13 @@ This dataset contains comprehensive information on 2,392 high school students, d
 
 - **StudentID:** A unique identifier assigned to each student (1001 to 3392).
 
+
+
+
+
+
+
+
 ### 2) Demographic Details
 
 - **Age:** The age of the students ranges from 15 to 18 years.
@@ -65,18 +72,34 @@ This dataset contains comprehensive information on 2,392 high school students, d
 - **Ethnicity:** The ethnicity of the students, coded as follows:
   
 0: Caucasian
+
 1: African American
+
 2: Asian
+
 3: Other
+
+
+
+
 
 ### 3) Parental Education
 
 The education level of the parents, coded as follows:
+
 0: None
+
 1: High School
+
 2: Some College
+
 3: Bachelor's
+
 4: Higher
+
+
+
+
 
 ### 4) Study Habits
 
@@ -86,13 +109,21 @@ The education level of the parents, coded as follows:
   
 - **Tutoring:** Tutoring status, where 0 indicates No and 1 indicates Yes.
 
+
+
+
 ### 5) Parental Involvement
 
 - **ParentalSupport:** The level of parental support, coded as follows:
+
 0: None
+
 1: Low
+
 2: Moderate
+
 3: High
+
 4: Very High
 
 ### 6) Extracurricular Activities
@@ -114,9 +145,13 @@ The education level of the parents, coded as follows:
 - **GradeClass:** Classification of students' grades based on GPA:
 
 0: 'A' (GPA >= 3.5)
+
 1: 'B' (3.0 <= GPA < 3.5)
+
 2: 'C' (2.5 <= GPA < 3.0)
+
 3: 'D' (2.0 <= GPA < 2.5)
+
 4: 'F' (GPA < 2.0)
 
 
@@ -146,6 +181,7 @@ This dataset explores the relationship between academic performance and career s
 
 
 ### **2) Academic Performance**
+
 - **High_School_GPA:** – High school GPA (2.0 - 4.0 scale)
   
 - **SAT_Score:** – Standardized test score (900 - 1600)
@@ -158,6 +194,7 @@ This dataset explores the relationship between academic performance and career s
 
 
 ### **3) Skills & Extracurricular Activities**
+
 - **Internships_Completed:**  Number of internships completed (0-4)
   
 - **Projects_Completed:**  Number of personal/academic projects completed (0-9)
@@ -170,6 +207,7 @@ This dataset explores the relationship between academic performance and career s
 
 
 ### **4) Career Outcomes**
+
 - **Job_Offers:** Number of job offers received after graduation (0-5)
    
 - **Starting_Salary:** First job salary in USD ($25,000 - $150,000)
@@ -185,7 +223,7 @@ This dataset explores the relationship between academic performance and career s
 - **Entrepreneurship:**  Whether the individual started a business (Yes/No)
 
 
-  ---
+
 
   
 
@@ -196,13 +234,10 @@ This dataset explores the relationship between academic performance and career s
 
 
 
-
-
-Idea of the project is making connections between these two datasets and applying ML techniques.Therefore, we can find best future options by knowing individuals' personal habits and background information.
+Idea of the project is making connections between these two datasets and applying ML techniques.This project aim to **predict unknown individuals' future career**; therefore, we can find the **optimum career paths** by knowing random individuals' personal habits and background information.
 
 
 
----
 
 
 
