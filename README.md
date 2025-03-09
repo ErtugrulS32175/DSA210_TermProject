@@ -21,6 +21,12 @@ In this project, I am going to investigate the crutial connections between study
 Firstly, I will be investigating my first dataset which directly focuses on studying hour and GPA.In paticular, aim of using the first dataset is answering the "What are the key factors of having good education and better GPA?" question.
 
 
+For Dataset Link:
+
+
+
+https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset
+
 
 
 
@@ -33,6 +39,13 @@ Firstly, I will be investigating my first dataset which directly focuses on stud
 
 
 Secondly, I will be investigating my second dataset which mainly focuses on connections between GPA and economic and life satisfaction.In particular, aim of using the second dataset is answering the "In which ways, academic success affect individuals life?(i.e. job revenue,work-life balance etc)".
+
+
+For Dataset Link:
+
+
+
+https://www.kaggle.com/datasets/adilshamim8/education-and-career-success/data
 
 
 
@@ -53,6 +66,9 @@ This dataset contains comprehensive information on 2,392 high school students, d
 
 
 ### 1) Student Information
+
+
+
 
 - **StudentID:** A unique identifier assigned to each student (1001 to 3392).
 
