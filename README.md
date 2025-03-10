@@ -38,7 +38,7 @@ This project aims to analyze the correlation between sleep patterns, eating habi
 - **Sleeping Time:** Sleeping time in the given day
 
 
-- **Sleep Duration:**  Longness of the sleep in the given day
+- **Sleep Duration:**  Longness of the sleep (hour) in the given day
 
 
 - **Number of Meal:**  Eaten meal number in the given day
@@ -53,7 +53,7 @@ This project aims to analyze the correlation between sleep patterns, eating habi
        Large Size:3
 
 
-- **Lecture Name and Exam Date:**  Lecture name and its coming exam date
+- **Lecture Name and Exam Date:**  Lecture name(s) and closest exam date(s)
 
 
 
