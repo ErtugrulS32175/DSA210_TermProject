@@ -46,14 +46,16 @@ This project aims to analyze the correlation between sleep patterns, eating habi
 
 - **Coffee Intake:**  Total drinking coffee in the given day
 
-       Small Size:1
+     Small Size:1
 
-       Medium Size:2
+     Medium Size:2
 
-       Large Size:3
+     Large Size:3
+
 
 
 - **Lecture Name and Exam Date:**  Lecture name(s) and closest exam date(s)
+
 
 
 
