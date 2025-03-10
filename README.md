@@ -53,6 +53,9 @@ This project aims to analyze the correlation between sleep patterns, eating habi
      Large Size:3
 
 
+- **Study Time:**  How long studied (Hour,Minute) in the given day
+
+
 
 - **Lecture Name and Exam Date:**  Lecture name(s) and closest exam date(s)
 
